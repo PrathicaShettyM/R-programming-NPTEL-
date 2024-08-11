@@ -1,5 +1,18 @@
 # DataScienceForEngineers
+This repository consists of concepts from NPTEL course `Data Science for Engineers`.
 
+The `R` module consists of:
+1. Intro.r
+2. BasicObjects.r
+3. DataFrames.r
+4. Operations.r
+5. Functions.r
+6. FunctionTypes.r
+7. ControlStatements.r
+8. DataVisualisation.r
+
+
+# console output practise
 Type in console
 ```
 > pi
